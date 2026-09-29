@@ -1,0 +1,7 @@
+.env
+flask_session/
+instance/
+pycache/
+.vscode/
+*.pyc
+*.db
